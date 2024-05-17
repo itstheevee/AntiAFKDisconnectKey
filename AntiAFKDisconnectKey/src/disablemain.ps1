@@ -1,1 +1,0 @@
-wmic process where "commandline like '%%main.ahk%%'" delete

@@ -1,1 +1,0 @@
-taskkill /F /FI "WindowTitle eq notify-5172024" /T
