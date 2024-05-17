@@ -1,4 +1,4 @@
-A very simple macro that adds a keybind to prevent your Roblox AFK disconnection and a notifier that notifies you when to press it
+A very simple macro that adds a keybind to prevent your Roblox AFK disconnection and a notifier that notifies you every 16 minutes to press it with notification sound toggler
 
 
 
