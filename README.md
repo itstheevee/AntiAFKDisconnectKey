@@ -3,6 +3,7 @@ A very simple macro that adds a keybind to prevent your Roblox AFK disconnection
 Works on games of course and fullscreen stuff
 
 
+
 READ THE README FILE
 
 SHOWCASE:
