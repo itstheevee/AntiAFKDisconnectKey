@@ -3,4 +3,11 @@ A very simple macro that adds a keybind to prevent your Roblox AFK disconnection
 
 
 READ THE README FILE
+
+SHOWCASE:
+
+https://youtu.be/rKj-vFOVcPE
+
+THE NOTIFICATION:
+
 ![Screenshot (800)](https://github.com/itstheevee/AntiAFKDisconnectKey/assets/78029180/b0d378d5-4470-47c4-946f-98371a3d4256)
