@@ -4,7 +4,7 @@ Works on games of course and fullscreen stuff
 
 
 
-READ THE README FILE
+READ THE README FILE [TO READ WARNINGS]
 
 SHOWCASE:
 
